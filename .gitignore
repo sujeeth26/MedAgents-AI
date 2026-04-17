@@ -1,0 +1,101 @@
+# Environment Variables & Secrets (NEVER COMMIT THESE!)
+.env
+.env.local
+.env.*.local
+.env.backup*
+.env.hybrid
+*.key
+secrets/
+
+# API Keys & Credentials
+*_api_key*
+*_secret*
+config_local.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Data & Uploads (can be large)
+data/
+uploads/
+*.db
+*.sqlite
+*.sqlite3
+
+# Vector Databases
+data/chroma_db/
+data/qdrant_db/
+data/faiss_db/
+data/docs_db/
+data/parsed_docs/
+
+# Evaluation Results (can regenerate)
+evaluation_results/
+*.json
+*.png
+*.html
+
+# Model Weights (can be large)
+*.pth
+*.pth.tar
+*.h5
+*.pkl
+*.pickle
+models/
+
+# Logs
+*.log
+logs/
+server.pid
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+model-weights/
