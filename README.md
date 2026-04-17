@@ -8,7 +8,6 @@
 
 
 
-![MedAgentica Logo](assets/logo_rounded.png)
 
 
 
