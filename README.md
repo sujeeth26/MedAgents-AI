@@ -6,17 +6,11 @@
 
 **Revolutionary AI-Powered Healthcare System with Agentic RAG, Multi-Modal Image Analysis & Real-Time Research**
 
-[![Python 3.9+](https://img.shields.io/badge/python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/Vasu2604/MedAgentica?style=for-the-badge&logo=github&color=yellow)](https://github.com/Vasu2604/MedAgentica)
-[![GitHub Forks](https://img.shields.io/github/forks/Vasu2604/MedAgentica?style=for-the-badge&logo=github&color=blue)](https://github.com/Vasu2604/MedAgentica)
+
 
 ![MedAgentica Logo](assets/logo_rounded.png)
 
-**[📖 Documentation](#-documentation) • [🚀 Quick Start](#-quick-start) • [🎯 Features](#-key-features) • [🏗️ Architecture](#️-system-architecture) • [🤝 Contributing](#-contributing)**
+
 
 
 ## 🎥 **Demonstration**
