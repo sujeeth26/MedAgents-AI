@@ -621,40 +621,7 @@ Built with:
 
 ---
 
-## 🚀 **Quick Commands Reference**
 
-```bash
-# Modern Full-Stack Application
-bash run_server.sh                    # Backend
-cd aurora-ai-main && npm run dev     # Frontend
-
-# Legacy Standalone RAG System
-python legacy/demo_agentic_rag.py
-
-# Data Ingestion
-python legacy/demo_ingest_pinecone.py
-
-# Evaluation
-python evaluation/quick_evaluate.py
-python evaluation/evaluate_rag_llm.py
-
-# Health Check
-curl http://localhost:8001/health
-```
-
----
-
-<div align="center">
-
-## ⭐ **Star This Repo**
-
-If you find this project useful, please consider giving it a star! ⭐
-
-**🌟 Made with ❤️ for the Medical AI Community 🌟**
-
-[Documentation](#-documentation) • [Quick Start](#-quick-start) • [Features](#-key-features) • [Contributing](#-contributing)
-
-**🔗 [GitHub Repository](https://github.com/Vasu2604/MedAgentica) • [Issues](https://github.com/Vasu2604/MedAgentica/issues) • [Discussions](https://github.com/Vasu2604/MedAgentica/discussions)**
 
 ---
 
